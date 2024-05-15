@@ -1,0 +1,21 @@
+body{
+background-image: url(back.png);
+background-repeat: repeat;
+}
+
+h1{
+    font-size: 330%;
+    text-align: center;
+    background-color: #33cccc;
+}
+
+h3{
+border-left-width: 10px;
+border-left-style: solid;
+border-left-color: #009999;
+}
+
+ol{
+line-height: 2;
+color: #ff6633;
+}
